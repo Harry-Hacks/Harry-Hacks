@@ -21,3 +21,6 @@ Seeking to leverage my experience, gain certifications, and transition into the 
 - 🏎️ Formula 1
 - 🏒 Washington Capitals
 - 🏃 Running and exercising
+
+## Professional Organizations
+Member of (ISC)2 Northern Virginia Chapter
