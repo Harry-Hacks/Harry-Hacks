@@ -4,7 +4,6 @@
 I am a proud <a href="#"><img src="https://cdn.brandfetch.io/idnACab9-H/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" height="20"></a> James Madison University Alumni, with an interest in technology and a passion for cybersecurity.
 
 ## Objective
-
 Seeking to leverage my experience, gain certifications, and transition into the cybersecurity field to secure a challenging position where I can grow and contribute to security efforts.
 
 ## Certifications
@@ -16,10 +15,9 @@ Seeking to leverage my experience, gain certifications, and transition into the 
     <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" width="150" height="40" />
   </a>
 
-## Hobbies & Interests  
-
-- 🐶 Spending time with my dog, Jäger  
-- ✈️ Traveling and exploring new places  
+## Hobbies & Interests
+- 🐶 Spending time with my dog, Jäger
+- ✈️ Traveling and exploring new places
 - 🏎️ Formula 1
 - 🏒 Washington Capitals
 - 🏃 Running and exercising
