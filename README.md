@@ -18,7 +18,7 @@ Seeking to leverage my experience, gain certifications, and transition into the 
 </p>
 
 ## Hobbies & Interests
-- 🐶 Spending time with my dog, Jäger
+- 🐶 Spending time with my fiance Joelle, and our dog, Jäger
 - ✈️ Traveling and exploring new places
 - 🏎️ Formula 1
 - 🏒 Washington Capitals
