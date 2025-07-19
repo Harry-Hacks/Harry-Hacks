@@ -7,10 +7,15 @@ I am a proud <a href="#"><img src="https://cdn.brandfetch.io/idnACab9-H/w/400/h/
 Seeking to leverage my experience, gain certifications, and transition into the cybersecurity field to secure a challenging position where I can grow and contribute to security efforts.
 
 ## Certifications
-<div>
+<div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.credly.com/badges/02ea622c-ffb6-40bb-be3a-30693ca0fb6e/linked_in_profile" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" width="150" height="40" />
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" height="40" />
   </a>
+  <a href="https://www.credly.com/badges/83703f53-eeb4-44fc-81bd-3e6b2a508096" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity-005AA7?&style=for-the-badge&logo=ISC2&logoColor=white" height="40" />
+  </a>
+</div>
+
 
 ## Hobbies & Interests
 - 🐶 Spending time with my dog, Jäger
