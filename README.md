@@ -17,6 +17,10 @@ Seeking to leverage my experience, gain certifications, and transition into the 
   </a>
 </p>
 
+## Projects
+<a href="https://github.com/Harry-Hacks/DoDCyberSentinelJune2025">DoD Cyber Sentinel CTF Write-Up</a>
+
+
 ## Hobbies & Interests
 - 🐶❤️ Spending time with my fiancé Joelle, and our dog, Jäger
 - ✈️ Traveling and exploring new places
