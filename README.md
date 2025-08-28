@@ -1,7 +1,10 @@
 # Hello, I'm Harry :wave:
 <a href="https://linkedin.com/in/harrychallis/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width="100" height="50"/></a>
 
-I am a proud <a href="#"><img src="https://cdn.brandfetch.io/idnACab9-H/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" height="20"></a> James Madison University Alumni, with an interest in technology and a passion for cybersecurity.
+I am a proud <a href="#"><img src="https://cdn.brandfetch.io/idnACab9-H/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" height="20"></a> James Madison University Alumni, with an interest in technology and a passion for cybersecurity.  
+
+Currently pursuing my **Master’s in Cyber Operations** at <a href="https://www.umgc.edu/" target="_blank"><img src="https://cdn.brandfetch.io/idXj9f5hn0/w/200/h/200/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" height="20"></a> University of Maryland Global Campus (UMGC).
+
 
 ## Objective
 Seeking to leverage my experience, gain certifications, and transition into the cybersecurity field to secure a challenging position where I can grow and contribute to security efforts.
