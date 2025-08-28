@@ -31,5 +31,6 @@ Seeking to leverage my experience, gain certifications, and transition into the 
 - 🏒 Washington Capitals
 - 🏃 Running and exercising
 
-## Professional Organizations
+## Organizations
+Member of UMGC Cyber Team
 Member of (ISC)2 Northern Virginia Chapter
