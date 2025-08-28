@@ -3,7 +3,7 @@
 
 I am a proud <a href="#"><img src="https://cdn.brandfetch.io/idnACab9-H/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" height="20"></a> James Madison University Alumni, with an interest in technology and a passion for cybersecurity.  
 
-Currently pursuing my **Master’s in Cyber Operations** at <img src="https://cdn.brandfetch.io/idXj9f5hn0/w/200/h/200/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B](https://cdn.brandfetch.io/idcQjDa9u5/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751030475521" width="20" height="20"></a> University of Maryland Global Campus (UMGC).
+Currently pursuing my **Master’s in Cyber Operations** at <a href="#"><img src="https://cdn.brandfetch.io/idcQjDa9u5/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" height="20"></a> University of Maryland Global Campus (UMGC).
 
 
 ## Objective
