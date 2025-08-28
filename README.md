@@ -1,11 +1,6 @@
 # Hello, I'm Harry :wave:
 <a href="https://linkedin.com/in/harrychallis/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width="100" height="50"/></a>
 
-I am a proud <a href="#"><img src="https://cdn.brandfetch.io/idnACab9-H/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" height="20"></a> James Madison University Alumni, with an interest in technology and a passion for cybersecurity.  
-
-Currently pursuing my **Master’s in Cyber Operations** at <a href="#"><img src="https://cdn.brandfetch.io/idcQjDa9u5/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" height="20"></a> University of Maryland Global Campus (UMGC).
-
-
 ## Objective
 Seeking to leverage my experience, gain certifications, and transition into the cybersecurity field to secure a challenging position where I can grow and contribute to security efforts.
 
@@ -23,6 +18,9 @@ Seeking to leverage my experience, gain certifications, and transition into the 
 ## Projects
 <a href="https://github.com/Harry-Hacks/DoDCyberSentinelJune2025">DoD Cyber Sentinel CTF Write-Up (June 2025)</a>
 
+## Education
+M.S Cyber Operations (Expected Fall 2026) Univeristy  of Maryland Global Campus <a href="#"><img src="https://cdn.brandfetch.io/idcQjDa9u5/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" height="20"></a>   
+B.B.A Computer Information Systems (May 2022) James Madison University <a href="#"><img src="https://cdn.brandfetch.io/idnACab9-H/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" height="20"></a>
 
 ## Hobbies & Interests
 - 🐶❤️ Spending time with my fiancé Joelle, and our dog, Jäger
@@ -32,5 +30,5 @@ Seeking to leverage my experience, gain certifications, and transition into the 
 - 🏃 Running and exercising
 
 ## Organizations
-Member of UMGC Cyber Team
+Member of UMGC Cyber Team  
 Member of (ISC)2 Northern Virginia Chapter
