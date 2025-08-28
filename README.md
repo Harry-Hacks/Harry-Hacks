@@ -21,7 +21,7 @@ Seeking to leverage my experience, gain certifications, and transition into the 
 </p>
 
 ## Projects
-<a href="https://github.com/Harry-Hacks/DoDCyberSentinelJune2025">DoD Cyber Sentinel CTF Write-Up</a>
+<a href="https://github.com/Harry-Hacks/DoDCyberSentinelJune2025">DoD Cyber Sentinel CTF Write-Up (June 2025)</a>
 
 
 ## Hobbies & Interests
