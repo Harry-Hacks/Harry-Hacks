@@ -1,5 +1,5 @@
 # Hello, I'm Harry :wave:
-<a href="https://linkedin.com/in/harrychallis/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width="100" height="50"/></a>
+You can find me on <a href="https://linkedin.com/in/harrychallis/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width="75" height="40"/></a>
 
 ## Objective
 Seeking to leverage my experience, gain certifications, and transition into the cybersecurity field to secure a challenging position where I can grow and contribute to security efforts.
