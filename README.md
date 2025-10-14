@@ -21,6 +21,8 @@ Seeking to leverage my experience, gain certifications, and transition into the 
 
 ## Projects
 <a href="https://github.com/Harry-Hacks/DoDCyberSentinelJune2025">DoD Cyber Sentinel CTF Write-Up (June 2025)</a>
+<a href="https://github.com/Harry-Hacks/NCL-Fall-2025">NCL Fall 2025 CTF Write-Up (October 2025)</a>
+
 
 ## Education
 M.S Cyber Operations (Expected Fall 2026) Univeristy  of Maryland Global Campus <a href="#"><img src="https://cdn.brandfetch.io/idcQjDa9u5/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" height="20"></a>   
