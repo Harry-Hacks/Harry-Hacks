@@ -20,8 +20,8 @@ Seeking to leverage my experience, gain certifications, and transition into the 
 </p>
 
 ## Projects
+<a href="https://github.com/Harry-Hacks/NCL-Fall-2025">NCL Fall 2025 CTF Write-Up (October 2025)</a> (In Progress) \
 <a href="https://github.com/Harry-Hacks/DoDCyberSentinelJune2025">DoD Cyber Sentinel CTF Write-Up (June 2025)</a>
-<a href="https://github.com/Harry-Hacks/NCL-Fall-2025">NCL Fall 2025 CTF Write-Up (October 2025)</a>
 
 
 ## Education
