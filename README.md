@@ -15,7 +15,13 @@ Seeking to leverage my experience, gain certifications, and transition into the 
   </a>
 </p>
 
-## Projects
+## Upcoming Competitions
+NCL Spring 2026 Individual Game (Starting April 10th) 
+
+## Write-Ups
+<a href="https://github.com/Harry-Hacks/NCL-Spring-2026-Gym">NCL Spring 2026 Gymnasium Write-Up (January 2026)</a> (In Progress)
+<br>
+</br>
 <a href="https://github.com/Harry-Hacks/NCL-Fall-2025">NCL Fall 2025 CTF Write-Up (October 2025)</a> (In Progress) <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8e51dad9-c4c7-482d-821d-99700011cf2d" />
 
 <a href="https://github.com/Harry-Hacks/DoDCyberSentinelJune2025">DoD Cyber Sentinel CTF Write-Up (June 2025)</a>
