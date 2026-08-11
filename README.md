@@ -16,19 +16,14 @@ Seeking to leverage my experience, gain certifications, and transition into the 
 </p>
 
 ## Upcoming Competitions
-NCL Spring 2026 Individual Game (Starting April 10th) 
+TBD
 
-## Write-Ups
-<a href="https://github.com/Harry-Hacks/NCL-Spring-2026-Gym">NCL Spring 2026 Gymnasium Write-Up (January 2026)</a> (In Progress)
-
-<a href="https://github.com/Harry-Hacks/NCL-Fall-2025">NCL Fall 2025 CTF Write-Up (October 2025)</a> (In Progress) <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8e51dad9-c4c7-482d-821d-99700011cf2d" />
-
+## Previous Competition Write-Ups
 <a href="https://github.com/Harry-Hacks/DoDCyberSentinelJune2025">DoD Cyber Sentinel CTF Write-Up (June 2025)</a>
 <img width="50" height="50" alt="40b7ca35-09a8-40f2-98b6-9e92b1612668" src="https://github.com/user-attachments/assets/26303c51-e128-4588-8589-6b485aea925a" />
 
-
 ## Education
-M.S Cyber Operations (Expected Fall 2026) Univeristy  of Maryland Global Campus <a href="#"><img src="https://cdn.brandfetch.io/idcQjDa9u5/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" height="20"></a>   
+M.S Cyber Operations (Expected Spring 2027) University of Maryland Global Campus <a href="#"><img src="https://cdn.brandfetch.io/idcQjDa9u5/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" height="20"></a>   
 B.B.A Computer Information Systems (May 2022) James Madison University <a href="#"><img src="https://cdn.brandfetch.io/idnACab9-H/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" height="20"></a>
 
 ## Hobbies & Interests
