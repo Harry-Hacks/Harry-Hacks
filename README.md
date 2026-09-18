@@ -30,7 +30,7 @@ Seeking to leverage my experience, gain certifications, and transition into the 
 
 ## Upcoming Competitions
 
-TBD
+Oct 23 - Oct 25: Individual Game
 
 ## Previous Competition Write-Ups
 
