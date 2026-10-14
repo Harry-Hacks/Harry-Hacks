@@ -30,8 +30,9 @@ Seeking to leverage my experience, gain certifications, and transition into the 
 
 ## Upcoming Competitions
 
-National Cyber League Fall 2026 Season\
-Oct 23 - Oct 25: Individual Game
+<a href="https://github.com/Harry-Hacks/NCL-Fall-2026">
+National Cyber League Fall 2026
+</a>: Oct 23 - Oct 25: Individual Game
 
 ## Previous Competition Write-Ups
 
