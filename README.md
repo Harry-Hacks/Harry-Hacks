@@ -15,24 +15,31 @@ Seeking to leverage my experience, gain certifications, and transition into the 
 ## Certifications
 
 <p align="left">
+  <a href="https://www.credly.com/badges/301e88cf-32b1-493b-98e7-b00ff8e70ace/linked_in_profile">
+    <img src="https://img.shields.io/badge/CySA%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white"
+         height="40"
+         alt="CompTIA CySA+">
+  </a>
+  <br>
   <a href="https://www.credly.com/badges/7e4d3b4a-e95a-4c3d-a198-2794d54b12f3/linked_in_profile">
-    <img src="https://img.shields.io/badge/Network%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"
+    <img src="https://img.shields.io/badge/Network%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white"
          height="40"
          alt="CompTIA Network+">
   </a>
   <br>
   <a href="https://www.credly.com/badges/02ea622c-ffb6-40bb-be3a-30693ca0fb6e/linked_in_profile">
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white"
+    <img src="https://img.shields.io/badge/Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white"
          height="40"
          alt="CompTIA Security+">
   </a>
   <br>
   <a href="https://www.credly.com/badges/83703f53-eeb4-44fc-81bd-3e6b2a508096">
-    <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity-005AA7?&style=for-the-badge&logo=ISC2&logoColor=white"
+    <img src="https://img.shields.io/badge/Certified%20in%20Cybersecurity-005AA7?style=for-the-badge&logo=ISC2&logoColor=white"
          height="40"
          alt="ISC2 Certified in Cybersecurity">
   </a>
 </p>
+
 
 ## Upcoming Competitions
 
